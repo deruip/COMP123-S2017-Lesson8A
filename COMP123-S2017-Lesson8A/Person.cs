@@ -61,7 +61,7 @@ namespace COMP123_S2017_Lesson8A
         /// </summary>
         public void Talks()
         {
-            Console.WriteLine(this._name + " is talking!");
+            Console.WriteLine(this.Name + " is talking!");
         }
     }
 }

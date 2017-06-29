@@ -16,6 +16,11 @@ namespace COMP123_S2017_Lesson8A
 
             Person person = new Person("Aron", 20);
             person.Talks();
+
+            Student student = new Student("John", 19, "123456789");
+            student.Talks();
+            student.Studies();
+                
         }
     }
 }
