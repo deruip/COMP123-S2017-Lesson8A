@@ -1,0 +1,6 @@
+C:\Documents\Semester 2\COMP123 - Programming 2\COMP123-S2017-Lesson8A\COMP123-S2017-Lesson8A\bin\Debug\COMP123-S2017-Lesson8A.exe.config
+C:\Documents\Semester 2\COMP123 - Programming 2\COMP123-S2017-Lesson8A\COMP123-S2017-Lesson8A\bin\Debug\COMP123-S2017-Lesson8A.exe
+C:\Documents\Semester 2\COMP123 - Programming 2\COMP123-S2017-Lesson8A\COMP123-S2017-Lesson8A\bin\Debug\COMP123-S2017-Lesson8A.pdb
+C:\Documents\Semester 2\COMP123 - Programming 2\COMP123-S2017-Lesson8A\COMP123-S2017-Lesson8A\obj\Debug\COMP123-S2017-Lesson8A.csprojResolveAssemblyReference.cache
+C:\Documents\Semester 2\COMP123 - Programming 2\COMP123-S2017-Lesson8A\COMP123-S2017-Lesson8A\obj\Debug\COMP123-S2017-Lesson8A.exe
+C:\Documents\Semester 2\COMP123 - Programming 2\COMP123-S2017-Lesson8A\COMP123-S2017-Lesson8A\obj\Debug\COMP123-S2017-Lesson8A.pdb
